@@ -11,5 +11,5 @@ STKR = os.environ.get("STKR","CAACAgEAAx0CRjAUHgABAsULZASkFZUsTQTw2k-FvC2SBJnd-v
 BANNED_USERS=os.environ.get("BANNED_USERS",None)
 UPDATE_CHNL = os.environ.get("UPDATE_CHNL","RadhaX2Update")
 # OWNER_USERNAME = os.environ.get("OWNER_USERNAME","GhostRadha")
-SUDO=os.environ.get("SUDO","5910057231")
-SUPPORT_GRP = os.environ.get("SUPPORT_GRP",RadhaX2Support")
+SUDO=os.environ.get("SUDO","6039423699")
+SUPPORT_GRP = os.environ.get("SUPPORT_GRP","Radha X2Support")
